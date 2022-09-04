@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "e04cfcda97d50d2475202aa58c62f718",
 # 模板消息id
-"template_id": "X2jWPmWF9M9F9OAHFD27CASkxecS1wsVF5hjxgIlamA",
+"template_id": "8YRGASoGHh8wwPD49La7S8Z_ZzL3XQucudo0Uu0i4Ok",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["ozHYX6lLbioOfZpaOsLunIWtai7s"],
  
@@ -25,5 +25,3 @@
 # 金句英文
 "note_en": ""
 }
-#更多资源学习请访问东阁：https://oo1o.cn
-#Ps:当前有0撸70元现金项目，免费上车
